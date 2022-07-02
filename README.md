@@ -1,5 +1,6 @@
 # Endless Oasis
 A project using provided starter code and [p5.js](https://p5js.org/) to create a randomly generated scene that depicts oases. Tiles are randomly generated and change based on the tiles around them. <br/>
+Check out the project [here!](https://teihek.github.io/CMPM147-P3/)
 
 ## Autotiling
 - Water and grass tiles adjacent to sand tiles are drawn with sand inside
